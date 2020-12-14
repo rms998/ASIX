@@ -1,0 +1,42 @@
+
+
+
+
+
+/*Tablas */
+
+table {
+    border: 1px solid black;
+    width: 30%;
+    border-collapse: collapse;
+    float: left;
+    margin: 30px 10vh 15px 20vh;
+  
+}
+
+tr {
+    border: 1px solid #ff46ac;
+}
+
+th {
+    border: 1px solid black;
+
+}
+
+tbody {
+    text-align: center;
+}
+
+#PlantillaSup {
+    float: left;
+}
+
+/*Cuerpo */
+
+h1 {
+    
+   text-align: center;
+   margin: 60px 25% 30px 25%;
+   padding-top: 10px;
+   border-top: solid 1px white;
+}

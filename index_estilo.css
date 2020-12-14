@@ -1,0 +1,41 @@
+ul {
+    margin
+}
+
+
+
+
+article {
+    width: 400px;
+    background-color: #252525;
+    margin-top: 5vh;
+    padding: 15px;
+    margin-left: 25%; 
+    float: left;
+    
+}
+
+
+
+div{
+    border: solid 3px white;
+    width: 300px;
+    text-align: center;
+    padding: 15px;
+    margin-top: 5vh;
+    float: left;
+    height: 255px ; 
+    background-color: #ff46ac;
+}
+
+p{
+    margin-top: 20vh;
+    padding: 2%;
+    color: black;
+    background-color: white;
+}
+
+h3 {
+    padding: 5%
+}
+
